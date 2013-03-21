@@ -2,6 +2,9 @@
 
 apt-get -y install git xclip
 
+git config --global user.name "Tyler Menezes"
+git config --global user.email "Tyler Menezes"
+
 mkdir ~/.ssh
 ssh-keygen -t rsa -C "tylermenezes@gmail.com" -N "" -f ~/.ssh/id_rsa
 

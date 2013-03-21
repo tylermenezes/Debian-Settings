@@ -36,6 +36,7 @@ cat << 'EOF' > ~/.zshrc
   fi
 
  export EDITOR='subl -w'
+ export GIT_EDITOR='subl -w'
 
   mkdir -p ~/.zsh/cache
 
