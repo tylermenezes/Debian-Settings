@@ -11,3 +11,4 @@
 ./install_node.sh
 ./install_nvidia.sh
 ./patch_graphics_drivers.sh
+./patch_mouse_drivers.sh
