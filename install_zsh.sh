@@ -286,6 +286,9 @@ cat << 'EOF' > ~/.zshrc
   else
     alias ls='ls -FGlh'
   fi
+  alias service='sudo service'
+  alias tail='sudo tail'
+  alias apt-get='sudo apt-get'
   alias dir='ll'
   alias l='ll'
   alias ll='ls -lh'

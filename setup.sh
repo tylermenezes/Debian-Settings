@@ -10,3 +10,4 @@
 ./install_java.sh
 ./install_node.sh
 ./install_nvidia.sh
+./patch_graphics_drivers.sh
