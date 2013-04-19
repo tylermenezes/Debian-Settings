@@ -4,7 +4,7 @@ cd /tmp
 mkdir sublime
 cd sublime
 wget http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.1%20x64.tar.bz2
-tar xzf *
+tar xjf *
 rm *
 mv * sublime_text
 sudo mv * /opt -r
