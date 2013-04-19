@@ -6,7 +6,7 @@ cd sublime
 wget http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%202.0.1%20x64.tar.bz2
 tar xjf *
 rm *
-mv * sublime_text
+mv * sublime_text -r
 sudo mv * /opt -r
 cd ..
 rm -rf sublime
