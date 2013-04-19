@@ -11,7 +11,7 @@ sudo mv * /opt -r
 cd ..
 rm -rf sublime
 
-sudo ln -s /usr/bin/subl /opt/sublime_text/sublime_text
+sudo ln -s /opt/sublime_text/sublime_text /usr/bin/subl
 
 subl &
 sleep 2
